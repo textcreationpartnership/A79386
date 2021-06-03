@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of His Highnesse the Prince of VVales, concerning his landing at Berwick in the north of England, and to march in the van of the English and Scottish army towards the City of London. Likewise His Majesties gracious resolution to his loving subjects, touching all those that desire a personall treaty, and his desire to free his subjects from all discontents whatsoever. And the proceedings of the House of Commons, concerning a personall treaty with the Kings Majesty ten miles from the City of Westminster. Also, the resolution of the Lord Inchiqueen to march into this kingdome with 2000. horse, and 4000 foot to assist the King against the Parliament, and the time of his landing in the west of England. Together with another fight in Kent, between the Duke of York his forces, and Colonel Rich, and the number slain and taken prisoners. As also the storming at Colchester, and a great and terrible blow given thereupon.</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79386</idno><idno type="EEBO-CITATION">99864396</idno>
+  <idno type="VID">161991</idno>
+  <idno type="EEBO-PROQUEST">2264200836</idno>
+  
+            <idno type="STC">Wing C3598B</idno>
+            <idno type="STC">Thomason E453_22</idno>
+            <idno type="STC">ESTC R204949</idno>
+            <idno type="PROQUEST">99864396</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864396e"/>
+            <note>(EEBO-TCP ; phase 2, no. A79386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161991)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of His Highnesse the Prince of VVales, concerning his landing at Berwick in the north of England, and to march in the van of the English and Scottish army towards the City of London. Likewise His Majesties gracious resolution to his loving subjects, touching all those that desire a personall treaty, and his desire to free his subjects from all discontents whatsoever. And the proceedings of the House of Commons, concerning a personall treaty with the Kings Majesty ten miles from the City of Westminster. Also, the resolution of the Lord Inchiqueen to march into this kingdome with 2000. horse, and 4000 foot to assist the King against the Parliament, and the time of his landing in the west of England. Together with another fight in Kent, between the Duke of York his forces, and Colonel Rich, and the number slain and taken prisoners. As also the storming at Colchester, and a great and terrible blow given thereupon.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for generall satisfaction of all loyall and true-hearted subjects,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 19".</note>
+                  <note>Reproduction of the original in the British Library (Thomason Tracts, reel 72) and the Harvard University Library (Early English books, 1641-1700, reel 2185).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161991:1"/>
+            <p>A REMONSTRANCE Of His Highnesse the Prince of Wales, CONCERNING His landing at <hi>Berwick</hi> in the North of England, and to march in the Van of the English and Scottish Army towards the City of LONDON.</p>
+            <p>Likewise His Majesties gracious Resolution to His loving Subjects, touching all those that desire a Personall Treaty, and his desire to free His Subjects from all discontents whatsoever.</p>
+            <p>And the proc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edings of the House of Commons, concer<g ref="char:EOLhyphen"/>ning a Personall Treaty with the Kings Majesty ten miles from the City of Westminster.</p>
+            <p>Also, the Resolution of the Lord <hi>Inchiqueen</hi> to march into this Kingdome with 2000. Horse, and 4000 Foot to assist the King against the Parliament, and the time of his landing in the West of <hi>England.</hi>
+            </p>
+            <p>Together with another Fight in <hi>Kent,</hi> between the Duke of <hi>York</hi> His Forces, and Colonel <hi>Rich,</hi> and the number slain and taken prisoners. As also the storming at <hi>Colchester,</hi> and a great and terrible blow given the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eupon.</p>
+            <p>
+               <add>July 19</add> LONDON. Printed for generall satisfaction of all loyall: and true-hearted Subjects. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161991:2"/>
+            <pb n="1" facs="tcp:161991:2"/>
+            <head>A Declaration of the further proceedings of the Prince of <hi>Wales,</hi> and the time of his joyning with the Scot<g ref="char:EOLhyphen"/>tish Forces in the <hi>North.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VVEE have had a fresh Allarm from the Sea, by the revolted Ships. The unexpected landing of near 1500 men, in these parts from <hi>Holland,</hi> much amuse them; the terror so great to many, that they begin to leave their Habitations, the ene<g ref="char:EOLhyphen"/>my act nothing as yet, expecting additionall forces very suddenly, they have relieved the two Castles of <hi>Deale</hi> and <hi>Sandwich,</hi> and have l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded most of their men.</p>
+            <p>The D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke of <hi>York</hi> is Lord High-Admirall of all his Majesties ships, and it is said that he is aboard with these ships, but some say that he is with those that are to follow.</p>
+            <p>Prince <hi>Maurice,</hi> the Prince <hi>Electors Pal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atines</hi> second brother, is Rear-Admirall as we hear, and is also said to be aboard with them.</p>
+            <pb n="2" facs="tcp:161991:3"/>
+            <p> The Officers of the ships that disserted the Parliament, have all their Commands, &amp; further promises, with large Commissions granted to them. There are about 500. of the old Seamen, with some recruits added to those which were belonging to the ships before. There are also Of<g ref="char:EOLhyphen"/>ficers for 4. Regiments, that are brought over to be lan<g ref="char:EOLhyphen"/>ded here in <hi>England,</hi> to serve the King against the Parlia<g ref="char:EOLhyphen"/>ment, some of which Officers are taken out of the ships that revolted. But those Officers have but thin Compa<g ref="char:EOLhyphen"/>nies, for they cannot all make above 1000. common Soul<g ref="char:EOLhyphen"/>diers.</p>
+            <p>And many of them, both Officers and Souldiers are <hi>Walloons,</hi> such as served under Quartermaster Gen. <hi>Dolbier,</hi> the great plunderer, that said he hoped this Warre would last one 7. years, but most part of them are <hi>English,</hi> there are also some <hi>Dutch</hi> and <hi>French,</hi> There are in all the ships 2 or 300 peece of Ordinance, that belong to the Ships, &amp; good store of Ammunition, and provisions for their use by Sea.</p>
+            <p>There are also some 4 or 500 Armes for those that they brought for land service.</p>
+            <p>The Country (not only those that have stood firme for the Parliament, but many others, who have lately ap<g ref="char:EOLhyphen"/>peared against them) seeme to be much (not only discon<g ref="char:EOLhyphen"/>tented, but) inraged against those that land; Crying out (with much sense and apprehension of the danger) That Forreigners are brought thither to surprize them.</p>
+            <p>We hear that Sir <hi>Miles Livesey</hi> is preparing to draw towards them with what strength he can conveniently march with.</p>
+            <p>We heare that his highnesse the Prince of Wales hath declared for the North of England, and doth intend to
+<pb n="3" facs="tcp:161991:3"/>joyn with the Scots forces, who are now entred; and that he is to march in the Van of the English Army, and hath sent a Commission to Sir <hi>Marmaduke Langdale,</hi> designing him Lieut. Gen. to his Highnesse, together, with the Earl of <hi>Branford,</hi> and the Lord <hi>Wilmot,</hi> have resolved to unite with his highnesse, Duke <hi>Hamilton,</hi> Lord General of the Scottish forces, and so to advance towards the Southern Climate, (if not opposed by the way.) But that which doth most support the drooping spirits in these parts, is, the gallant resolution of Major Gen. <hi>Lambert,</hi> and his Ar<g ref="char:EOLhyphen"/>my, and we hear that he hath lately fought with the Ene<g ref="char:EOLhyphen"/>my, killed about 50. and took 100 prisoners; but by reason of the Scots sudden advance, he was forced to retreat from <hi>Carlisle,</hi> and is marching towards <hi>Perith.</hi>
+            </p>
+            <p>On Tuesday July 12. the Prince of <hi>Wales,</hi> the Duke of <hi>York,</hi> the Prince of <hi>Orenge,</hi> Prince <hi>Rupert,</hi> and Prince <hi>Maurice,</hi> dined altogether at one Table in the <hi>Hague</hi> and it was worth the observation to see so many young Princes, whom distresse had removed from their own Dominions, to lay by their sorrows for the present, by meeting alto<g ref="char:EOLhyphen"/>gether with a yong Prince, that was so glad to see them. But after dinner, it is said, that the Duke of <hi>York</hi> took his leave of the rest of the royall Princes, and posted towards <hi>Gorith,</hi> where he came aboard the constant Reformation, and were entertained with great acclamations of joy, being received, by a great volley of above 100. peeces of Ordinance, and at the same time, all the Officers and Sea<g ref="char:EOLhyphen"/>men ingaged in an Oath and Declaration, to be faithfull to him, for the restauration of his Father, and the ancient Lawes of the Kingdom; a Copy whereof I have here inclosed.</p>
+            <pb n="4" facs="tcp:161991:4"/>
+            <p>
+               <q>In persuance of the Covenant I have already taken, I AB, d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in the presence of Almighty God the Sear<g ref="char:EOLhyphen"/>cher of all hearts, solemnly vow and protest, That in the first place I shall heartily endeavour the Freedome and Restauration of my <hi>Soveraign Lord King Charles</hi> to all his full and just Rights: and will be have my selfe faithfully in the service of his Highnesse the Prince of <hi>Wales.</hi> Next I doe vow all true obedince to my Lord High <hi>Admirall</hi> the <hi>Duke</hi> of <hi>Yorke,</hi> and that I will conforme my self chear<g ref="char:EOLhyphen"/>fully to his Highnesse lawfull Commands; which shall be for the service of his Royall Father: that I will hold no correspondence with the Enemy, But shall faithfully discover all Designes that I can come to the knowledge of that nature; and shall endeavour with the utmost haz<g ref="char:EOLhyphen"/>zard of my life to defend and protect his Highnesse Per<g ref="char:EOLhyphen"/>son from all danger; nor will ever give concent to deli<g ref="char:EOLhyphen"/>ver him up without the King his Royal Fathers Cōmand, or his own consent And as I shall be faithful &amp; just in the performance of all this; so helpe me God, and the con<g ref="char:EOLhyphen"/>ten<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of this Booke.</q>
+            </p>
+            <div type="part">
+               <head>The last great and bloody fight at Colchester.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>Vpon the 14. instant, the Lord Gen. drew out a party to storm Sir <hi>Iohn Lucas</hi> his house, which they accor<g ref="char:EOLhyphen"/>dingly did, and the same they took another strong place called the <hi>Hive,</hi> with divers prisoners and Ammunition, and upon 15. day they proceeded to force the Gatehouse, the Church, which were as well fortified as manned; the besiegers fired four piece of Ordinance, which they with<g ref="char:EOLhyphen"/>in spedily answer with foure more, the command then given to fall on, and storm the workes of the Gatehouse, the enemy throw down the Ladders, the stormers cast in Granadoes very thick, at which the enemy is amazed,
+<pb n="5" facs="tcp:161991:4"/>amazed, some hold out their handkerchiefs for quarter, others more resolute, fire gallantly; the dispute is very hot for a while, at length they within give back, the besiegers enter part of the Work, and throwing in a hand Granado where some of the Enemy stood to their Arms, it chances to light in their Magazine, consisting of about 4. Barrels of Powder, which blew up about 40. of the Enemy, one of the besigers hurt with that blast, but none killed about 5. in the afternoon they gain all, and begin to dig, pull out the dead bodies of the Enemy finding here a leg, there an arm: Some of the prisoners who had quarter, say they were sevenscore, and yet but 60. taken prisoners, not any could escape the besigers being between them and home; some of their poysoned bullets were sent up this evening for publike view: The besieged hereby being now shut up within the City Walls, set the Suburbs round the Town on fire, so fearfull and horrid a fight, as seldom the like e<g ref="char:EOLhyphen"/>ver seen in England before; the fire encreases from East-street, to North bri<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ge (near a mile) and with that vio<g ref="char:EOLhyphen"/>lence that its a wonder to behold.</p>
+                     <closer>
+                        <dateline>Colchester Leagure <date>Iuly the 18. 1648.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>By letters from the Isle of <hi>Wyght,</hi> it is certified, that the Kings Majesty enquires much after the proceedings of a p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rsonall Treaty, with which he seemes to be much affe<g ref="char:EOLhyphen"/>cted, and doth declare, That he will then so <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abour to sa<g ref="char:EOLhyphen"/>tisfie all interests, that he will leav<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no party discontented. In rel<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ion to which, the House of Commons have made a furt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er progresse therein, and have debated conc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rning th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce for the Treaty, whither at <hi>London,</hi> or t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les distant; <hi>London</hi> not by any means thought secure, the in<g ref="char:EOLhyphen"/>conveniences being numerous and distructive, and there<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:161991:5"/>came to this Resolution, That after the Bills be consented to and signed, as is desired, the King should be desired to name 3. places within 20. miles of <hi>Westminster,</hi> 2. of which to be at least 10. miles distant from <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> where the Treaty shall be, and then both Houses of Parliament shall have liberty to make choice of one of them, as they shall think fit.</p>
+               <p>By letters from <hi>Ireland</hi> it is advertized, that the Lord <hi>Inchiquin</hi> is actually joyned with the Rebels; the Lord <hi>Taffe,</hi> and he have declared and resolved to bring an Army for <hi>England,</hi> towards the latter end of this month, and in<g ref="char:EOLhyphen"/>tend to land in the Western parts of this Kingdom; they depend upon some of the Revolted ships for transportati<g ref="char:EOLhyphen"/>on, who gave assurance to the Lord <hi>Inchiquin</hi> of the sound by letters, long before they revolted, but defired his Lordship to secure others in Harbour, for their number would not be considerable to bring over an Army, 2000. horse are in readinesse for transportation, and 4000. Foot, as is reported. Alas poore <hi>England!</hi> will Irish Rebels, and Scottish enemies, fight for <hi>Englands</hi> priviledges? No: they and both joyned in one design for the King and Kingdoms ruine.</p>
+               <p>
+                  <hi>July</hi> 18. Letters from <hi>Kent</hi> say, that a party of Collonel <hi>Riches</hi> Horse marching towards <hi>Deale</hi> Castle, met with some of the <hi>Dukes</hi> forces who had landed thereabouts, &amp; after some skirmish, and dispute together, killed 5. or 6 of them, and took 20. prisoners, with little or no losse.</p>
+               <p>From the North letters say, that the Prince was expe<g ref="char:EOLhyphen"/>cted to land at <hi>Barwick</hi> on the 13. of this instant July, and so to march in the head of the Scottish and English Army.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
